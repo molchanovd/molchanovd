@@ -16,6 +16,7 @@
 - <b>Инструменты:</b> Git, Docker, K8s, Gitlab, Jira, GitHub
 - <b>Базы данных:</b> MSSQL, Postgresql, Redis
 
+## Опыт работы
 
 ### <span>Senior Fullstack Developer(Team Lead), <a href="https://relsys.tech/">Reliable Systems Ltd</a></span> <span>Сентябрь 2020 -- по настоящее время</span>
 
