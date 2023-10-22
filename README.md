@@ -42,7 +42,14 @@
 
 ### <span>Middle Fullstack Developer, <a href="https://relsys.tech/">Reliable Systems Ltd</a></span> <span>Декабрь 2016 -- по декабрь 2017 </span>
 
-- Проектировал и разрабатывал платформу для сбора средств(аналога краудфандинга) на любые личные нужды (.NET Core, React, Postgresql, K8s)
+- Разрабатывал платформу для сбора средств(аналога краудфандинга) на любые личные нужды (.NET Core, React, Postgresql, K8s)
 - Проектировал и разрабатывал API и часть архитектуры backend (.NET Core)
 - Разработал fronend (SSR, React, Redux)
+
+### <span>Middle Backend Developer, <a href="https://smartway.today/">Smartway</a></span> <span>Март 2016 -- по ноябрь 2016 </span>
+
+- Разрабатывал MVP сервис по бронированию отелей, авиа и жд билетов, заказа такси (.NET, MSSQL, Redis)
+- Проектировал и разрабатывал API и часть архитектуры backend (.NET)
+- Делал интеграции с сервисами, предлагающими отели, авиа и жд билеты. (.NET)
+
   
