@@ -32,7 +32,7 @@
 
 - Верстал адаптивные лендинги для веб сервиса на HTML, SCSS, JQuery <a href="https://www.vdma.org/">VDMA</a>
 
-### <span>Senior Fullstack Developer, <a href="https://relsys.tech/">Reliable Systems Ltd</a></span> <span>Март 2018 -- по май 2020</span>
+### <span>Senior Fullstack Developer, <a href="https://relsys.tech/">Reliable Systems Ltd</a></span> <span>Февраль 2018 -- по май 2020</span>
 
 - Проектировал и разрабатывал платформу для организации мероприятий и менеджмента гостей (.NET Core, React, Postgresql, RabbitMQ, K8s)
 - Разработал fronend админку для менеджмента гостей и мероприятий (React, Redux)
@@ -40,7 +40,7 @@
 - Проектировал и разрабатывал API и часть архитектуры backend (.NET Core)
 - Занимался администрированием и развертыванием кластеров на K8s для dev и stage окружений
 
-### <span>Senior Fullstack Developer, <a href="https://relsys.tech/">Reliable Systems Ltd</a></span> <span>Ноябрь 2016 -- по март 2018 </span>
+### <span>Middle Fullstack Developer, <a href="https://relsys.tech/">Reliable Systems Ltd</a></span> <span>Декабрь 2016 -- по декабрь 2017 </span>
 
 - Проектировал и разрабатывал платформу для сбора средств(аналога краудфандинга) на любые личные нужды (.NET Core, React, Postgresql, K8s)
 - Проектировал и разрабатывал API и часть архитектуры backend (.NET Core)
