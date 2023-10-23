@@ -51,5 +51,5 @@
 - Разрабатывал интернет магазин и внутренние утилиты. (ASP.Net, MSSQL, JS)
 - Разработал автоматическую верстку журналов продукции для печати на <a href="https://www.adobe.com/ru/products/indesign.html">Adobe InDesign</a> 
   
-### Junior Java Developer, SETUP LTD Май 2011 -- Апрель 2012
+### Junior Java Developer, SETUP LTD Сентябрь 2011 -- Май 2012
 - Разрабатывал систему дистанционного обучения, систему документооборота и финансового управления (Java, JSF)
