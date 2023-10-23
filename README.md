@@ -21,7 +21,7 @@
 ### <span>Senior Fullstack Developer(Team Lead), <a href="https://relsys.tech/">Reliable Systems Ltd</a></span> <span>Сентябрь 2020 -- по настоящее время</span>
 - Проектировал и разрабатывал платформу для маркетинга в сфере фармацевтики, <a href="https://www.direktundonline.de/en/">Direkt + Online GmbH</a> (NestJS, TypeORM, NextJS, Postgresql)
 - Разработал архитектуру на основе CQRS и частично использовал паттерны из DDD, что сделало архитектуру более слабосвязанной и устойчивой к изменениям
-- Внедрил GraphQL для использования на frontend и интеграций с сторонними сервисами
+- Внедрил GraphQL для использования на frontend и интеграций со сторонними сервисами
 - Внедрил E2E тесты на Jest, с использованием liquibase и <a href="https://www.npmjs.com/package/typeorm-fixtures-cli#typeorm-fixtures-cli">TypeORM fixtures cli</a> для реализации тесткейсов
 - Разрабатывал frontend на NextJs с применением FSD подхода к архитектуре
 - Управлял командой backend разработки 3+ человек
@@ -52,4 +52,4 @@
 - Разработал автоматическую верстку журналов продукции для печати на <a href="https://www.adobe.com/ru/products/indesign.html">Adobe InDesign</a> 
   
 ### Junior Java Developer, SETUP LTD Сентябрь 2011 -- Май 2012
-- Разрабатывал систему дистанционного обучения, систему документооборота и финансового управления (Java, JSF)
+- Разрабатывал систему дистанционного обучения (Java, JSF)
